@@ -1,0 +1,21 @@
+Template Matching
+1) f*g
+f = template
+g = image
+
+2) (f - fLINE) * g
+fLINE = mean of f
+
+f = 3, 7, 4
+	0, 1, 2
+	5, 6, 1
+
+fLINE = 29/9
+
+3) (f-g)^2 <- sum of squared differences (ssd)
+g = 2, 7, 4 
+	0, 1, 2
+	5, 7, 2
+
+(3-2)^2 + (7-7)^2 + (4-4)^2 + etc...
+

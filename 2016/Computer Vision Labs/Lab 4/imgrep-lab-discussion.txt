@@ -1,0 +1,4 @@
+1) I was unable to install GIST. It kept giving me weird value errors when ever I followed the setup instructions and I was unable to fix them.
+2) As expected, when we created a 4x4 array of histograms (coresponding to the 4x4 subimages), we can see that there is a greater amount of blue (among other colours) in the upper portions of the image (corresponding to the sky), than in the portions of the image that cover the 'tower/tree' and the town.
+3 & 4) In the figures generated from questions 3 and 4, we can see the clusters of high values across the different dimensions. For the 8x4x2 histogram, it is much less dense than the 8x8x8 histogram.
+5) A very dense histogram that clearly shows the areas of high values and the trends emerging.
